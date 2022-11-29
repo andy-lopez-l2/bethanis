@@ -9,6 +9,10 @@ body {
 	background-color: #9d8eb6 !important;
 }
 
+.jumb-img {
+	background: url("../images/carousel3.jpg") no-repeat fixed;
+}
+
 .jumbotron-detail-apple-pie {
 	background: url("../images/products/applepie.jpg") no-repeat fixed;
 	align-items: center;
@@ -17,4 +21,16 @@ body {
 .jumbotron {
 	height: 40vh;
 	background-size: cover;
+}
+
+.algo {
+	vertical-align: middle;
+}
+
+.carousel-item {
+	height: 32rem;
+	max-width: 100vh;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
 }
