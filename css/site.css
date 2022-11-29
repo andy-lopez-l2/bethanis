@@ -1,0 +1,20 @@
+body {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	background-image: url("../images/pattern.png");
+	background-repeat: repeat;
+}
+
+.bg-primary {
+	background-color: #9d8eb6 !important;
+}
+
+.jumbotron-detail-apple-pie {
+	background: url("../images/products/applepie.jpg") no-repeat fixed;
+	align-items: center;
+}
+
+.jumbotron {
+	height: 40vh;
+	background-size: cover;
+}
